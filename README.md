@@ -42,21 +42,17 @@ This dataset supports **sales analysis, customer segmentation, and retention ana
 ## Dashboard Insights
 ### Sales Performance
 - Strong overall revenue with a high average order value  
-- Indicates customers are purchasing high-value products
--   
+- Indicates customers are purchasing high-value products  
 ### Customer Funnel Analysis
 - Clear distinction between single-order and repeat customers  
-- Nearly half of customers return, showing strong retention
--   
+- Nearly half of customers return, showing strong retention  
 ### Repeat Customer Trend
 - Repeat purchases show a consistent upward trend  
 - Reflects increasing customer loyalty over time
--  
 ### Payment Gateway Analysis
 - Shopify Payments is the most preferred payment method  
 - Followed by PayPal and Gift Cards  
 - Helps optimize checkout and payment strategy
-- 
 ### Product Type Analysis
 Top products driving repeat purchases:
 - Running Shoes  
@@ -119,7 +115,7 @@ This structure ensures a **clear link between summary metrics and raw transactio
 - Investigate **city-wise or region-wise sales anomalies**  
 - Perform **customer-level revenue tracking and validation**
 
-## 📈 Business Value
+##  Business Value
 
 - Bridges the gap between **summary dashboards and raw data**
 - Enables **data-driven validation of KPIs**
