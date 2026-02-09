@@ -1,4 +1,4 @@
-Shopify_Sales & Customer Funnel Dashboard
+
 <img width="1057" height="625" alt="Screenshot 2026-02-08 225128" src="https://github.com/user-attachments/assets/7e0a4f8a-9be2-438d-bf91-4f7f27b891eb" />
 
 # Shopify Sales & Customer Funnel Dashboard (Power BI)
